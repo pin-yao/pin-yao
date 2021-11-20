@@ -1,4 +1,7 @@
 ### Hi there 👋
+### my name is 許品堯
+### 🌱 I’m studing in nycu
+
 
 <!--
 **pin-yao/pin-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
