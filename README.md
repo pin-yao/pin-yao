@@ -1,10 +1,5 @@
 ### Hi there 👋 My name is 許品堯,I'm from Tainan and currently studying in nycu.
 
-### My hobbys are palying table tennis and playing bridge(橋牌).
-
-### I also likes to go fishing to release strees when I have time.
-
-
 <!--
 **pin-yao/pin-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
